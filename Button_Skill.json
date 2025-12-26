@@ -44,6 +44,7 @@
   {"name":"[Tel'Annas] Thứ Nguyên Vệ Thần","value":50110,"ButtonID":44},
   {"name":"[Tel'Annas] Kỷ Nguyên Hổ Phách","value":50120,"ButtonID":38},
   {"name":"[Tel'Annas] Lân Quang Thánh Điệu","value":50119,"ButtonID":32},
+  {"name":"[Tel'Annas] Thứ Nguyên Vệ Thần","value":50110,"ButtonID":38},
   {"name":"[Tulen] Satoru Gojo","value":19015,"ButtonID":23},
   {"name":"[Valhein] Thứ Nguyên Vệ Thần","value":13314,"ButtonID":25},
   {"name":"[Veera] Thiết Sát Thượng Sinh","value":10915,"ButtonID":30},
@@ -57,4 +58,5 @@
   {"name":"[Yorn] Conan Edogawa","value":11215,"ButtonID":45},
   {"name":"[Zephys] Kỷ Nguyên Hổ Phách","value":10714,"ButtonID":36}
 ]
+
 
