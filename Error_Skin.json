@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {"name":"[ Mặc Định ]","HeroID":0,"SkinID":0},
   {"name":"[ Krixi ] Lốc Xoáy Kinh Hoàng Tatsumaki","HeroID":106,"SkinID":11},
   {"name":"[ Krixi ] Phù Thủy Thời Không","HeroID":106,"SkinID":20},
@@ -40,3 +41,44 @@
   {"name":"[ Bolt Baron ] Thiên Phủ - Tư Mệnh","HeroID":598,"SkinID":2},
   {"name":"[ Billow ] Thiên Tướng - Độ Ách","HeroID":599,"SkinID":1}
 ]
+=======
+  { "name": "Skin Chưa Fix",                          "hero": 0, "skin": 0 },
+  { "name": "[ Airi ] Bích Hải Thánh Nữ",             "hero": 130, "skin": 11 },
+  { "name": "[ Aoi ] Mikasa Ackerman",                "hero": 536, "skin": 12 },
+  { "name": "[ Aya ] Cinnamoroll's Dream",            "hero": 543, "skin":  9 },
+  { "name": "[ Billow ] Thiên Tướng Độ Ách",          "hero": 599, "skin":  1 },
+  { "name": "[ Bolt Baron ] Thiên Phủ Tư",            "hero": 598, "skin":  2 },
+  { "name": "[ Capheny ] Càn Nguyên Điện Chủ",        "hero": 524, "skin": 14 },
+  { "name": "[ Điêu Thuyền ] Nhật Nguyệt Thánh Linh", "hero": 152, "skin": 17 },
+  { "name": "[ Eland'orr ] Mộng Giới Thần Chủ",       "hero": 199, "skin":  8 },
+  { "name": "[ Hayate ] Siêu Đạo Chích",              "hero": 132, "skin": 13 },
+  { "name": "[ Hayate ] Tu Di Thánh Đế",              "hero": 132, "skin": 10 },
+  { "name": "[ Iggy ] Rimuru Tempest",                "hero": 538, "skin":  6 },
+  { "name": "[ Ilumia ] Khải Huyền Thiên Hậu",        "hero": 136, "skin":  9 },
+  { "name": "[ Ilumia ] Lưỡng Nghi Long Hậu",         "hero": 136, "skin": 13 },
+  { "name": "[ Krixi ] Lốc Xoáy Kinh Hoàng Tatsumaki", "hero": 106, "skin": 11 },
+  { "name": "[ Krixi ] Phù Thủy Thời Không",          "hero": 106, "skin": 20 },
+  { "name": "[ Lauriel ] Mã Đằng Cứu Thế",            "hero": 141, "skin": 20 },
+  { "name": "[ Lauriel ] Thứ Nguyên Vệ Thần",         "hero": 141, "skin": 11 },
+  { "name": "[ Murad ] Tuyệt Thế Thần Binh",          "hero": 131, "skin": 16 },
+  { "name": "[ Nakroth ] Bạch Diện Chiến Thương",     "hero": 150, "skin": 15 },
+  { "name": "[ Nakroth ] Levi Ackerman",              "hero": 150, "skin": 16 },
+  { "name": "[ Nakroth ] Quỷ Thương Liệp Đế",         "hero": 150, "skin": 13 },
+  { "name": "[ Ngộ Không ] Thần Giáp Xích Diễm",      "hero": 167, "skin": 11 },
+  { "name": "[ Paine ] Megumi Fushiguro",             "hero": 137, "skin":  6 },
+  { "name": "[ Qi ] Milim Nava",                      "hero": 528, "skin":  9 },
+  { "name": "[ Raz ] Bão Vũ Cuồng Lôi",               "hero": 157, "skin": 10 },
+  { "name": "[ Stuart ] Siêu Trùm Phản Diện",         "hero": 174, "skin":  8 },
+  { "name": "[ Tel'Annas ] Kỉ Nguyên Hổ Phách",       "hero": 501, "skin": 20 },
+  { "name": "[ Tel'Annas ] Lân Quang Thánh Điệu",     "hero": 501, "skin": 19 },
+  { "name": "[ Tel'Annas ] Tân Niên Vệ Thần",         "hero": 501, "skin": 12 },
+  { "name": "[ Veera ] Thất Sát - Thượng Sinh",       "hero": 109, "skin": 15 },
+  { "name": "[ Veres ] Lưu Ly Long Mẫu",              "hero": 520, "skin": 11 },
+  { "name": "[ Violet ] Huyết Ma Thần",               "hero": 111, "skin": 13 },
+  { "name": "[ Violet ] Nobara Kugisaki",             "hero": 111, "skin": 20 },
+  { "name": "[ Violet ] Vọng Nguyệt Long Cơ",         "hero": 111, "skin": 19 },
+  { "name": "[ Violet ] Vợ Người Ta",                 "hero": 111, "skin": 10 },
+  { "name": "[ Yorn ] Conan Edogawa",                 "hero": 112, "skin": 15 },
+  { "name": "[ Yue ] Hỗn Độn Thần Ma",                "hero": 545, "skin":  7 }
+]
+>>>>>>> 028c2c5939ff54735f7fa4c5100a6f8e2e7be215
