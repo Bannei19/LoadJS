@@ -38,10 +38,12 @@
 - `17108` ⬩ **Cresht:** Eren Jaegar `[Biến Về, Âm Thanh]`
 - `17408` ⬩ **Stuart:** Siêu trùm phản diện `[Biến Về, Khung, Âm Thanh]`
 - `18408` ⬩ **Helen:** Bé hoa xuân `[Biến Về, Âm Thanh]`
+- `19016` ⬩ **Tulen:** Thiên Cơ Bạch Trạch `[Biến Về, Âm Thanh]`
 - `19908` ⬩ **Eland'orr:** Mộng Giới Thần Chủ `[Biến Về, Khung, Âm Thanh]`
 - `50119` ⬩ **Tel'annas:** Lân Quang Thánh Điệu `[Biến Về, Khung, Âm Thanh]`
 - `52414` ⬩ **Capheny:** Càn Nguyên Điện Chủ `[Biến Về, Khung, Âm Thanh]`
 - `52809` ⬩ **Qi:** Milim Nava `[Biến Về, Khung, Âm Thanh]`
+- `53113` ⬩ **Keera:** Yêu Thần Nekomata `[Biến Về, Khung, Âm Thanh]`
 - `53612` ⬩ **Aoi:** Mikasa `[Biến Về, Âm Thanh]`
 - `53806` ⬩ **Iggy:** Rimuru Tempest `[Biến Về, Khung, Âm Thanh]`
 - `54507` ⬩ **Yue:** Hỗn Độn Thần Ma `[Biến Về, Khung, Âm Thanh]`
