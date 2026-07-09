@@ -1,37 +1,37 @@
 [
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2338")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKInit
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2364")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKInitEx
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2368")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKSetUserInfo
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF23B4")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKSetUserInfoWithLicense
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2404")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKOnPause
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2424")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKOnResume
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2444")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKGetReportData
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2460")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKDelReportData
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF247C")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKOnRecvData
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF24D4")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKIoctl
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF24E8")), ENCRYPTHEX("000080D2C0035FD6"), true); // Report 2/3/4 variants
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF24F4")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKRegistInfoListener
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xC828")),  ENCRYPTHEX("000080D2C0035FD6"), true); // TssIosMainThreadDispatcher (SendCmd)
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xC8A4")),  ENCRYPTHEX("000080D2C0035FD6"), true); // TssIosMainThreadDispatcher (DoCmd)
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x14754")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_resolve_api_by_name
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x1DBFC")), ENCRYPTHEX("000080D2C0035FD6"), true); // DelReport internal
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x1DD8C")), ENCRYPTHEX("000080D2C0035FD6"), true); // GetReportData body
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x1DDA8")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_on_recv_data_internal
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x282AC")), ENCRYPTHEX("000080D2C0035FD6"), true); // SetUserInfo internal
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x295BC")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_init_internal secondary
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x311B8")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_init_internal
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x31448")), ENCRYPTHEX("000080D2C0035FD6"), true); // SetUserInfoWithLicense internal
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x3177C")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_lifecycle_event
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x39688")), ENCRYPTHEX("000080D2C0035FD6"), true); // OnRecv dispatcher
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x3AD38")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_create_core_report
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x3B1F8")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_monitor_dispatch
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x3DCF8")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_bind_resolved_api
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xA36A0")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_feature_flag_get
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFAB64")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 2
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFBD90")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 3
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFD0EC")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 4
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFE9EC")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 5
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFF79C")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 0
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x100304")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 6
-Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x100670")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 1
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2338")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKInit
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2364")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKInitEx
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2368")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKSetUserInfo
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF23B4")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKSetUserInfoWithLicense
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2404")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKOnPause
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2424")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKOnResume
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2444")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKGetReportData
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2460")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKDelReportData
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF247C")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKOnRecvData
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF24D4")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKIoctl
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF24E8")), ENCRYPTHEX("000080D2C0035FD6"), true); // Report 2/3/4 variants
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF24F4")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKRegistInfoListener
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xC828")),  ENCRYPTHEX("000080D2C0035FD6"), true); // TssIosMainThreadDispatcher (SendCmd)
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xC8A4")),  ENCRYPTHEX("000080D2C0035FD6"), true); // TssIosMainThreadDispatcher (DoCmd)
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x14754")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_resolve_api_by_name
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x1DBFC")), ENCRYPTHEX("000080D2C0035FD6"), true); // DelReport internal
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x1DD8C")), ENCRYPTHEX("000080D2C0035FD6"), true); // GetReportData body
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x1DDA8")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_on_recv_data_internal
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x282AC")), ENCRYPTHEX("000080D2C0035FD6"), true); // SetUserInfo internal
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x295BC")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_init_internal secondary
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x311B8")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_init_internal
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x31448")), ENCRYPTHEX("000080D2C0035FD6"), true); // SetUserInfoWithLicense internal
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x3177C")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_lifecycle_event
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x39688")), ENCRYPTHEX("000080D2C0035FD6"), true); // OnRecv dispatcher
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x3AD38")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_create_core_report
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x3B1F8")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_monitor_dispatch
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x3DCF8")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_bind_resolved_api
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xA36A0")), ENCRYPTHEX("000080D2C0035FD6"), true); // ano_feature_flag_get
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFAB64")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 2
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFBD90")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 3
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFD0EC")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 4
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFE9EC")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 5
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFF79C")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 0
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x100304")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 6
+    Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x100670")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 1
 ]
