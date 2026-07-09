@@ -1,3 +1,4 @@
+[
         Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2338")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKInit
         Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2364")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKInitEx
         Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xF2368")), ENCRYPTHEX("000080D2C0035FD6"), true); // AnoSDKSetUserInfo
@@ -33,3 +34,4 @@
         Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFF79C")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 0
         Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x100304")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 6
         Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x100670")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 1
+]
