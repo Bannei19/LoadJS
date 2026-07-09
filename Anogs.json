@@ -34,4 +34,22 @@
     Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0xFF79C")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 0
     Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x100304")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 6
     Active.Address(Patch_Anogs, Titanium(ENCRYPTOFFSET("0x100670")), ENCRYPTHEX("000080D2C0035FD6"), true); // Dispatch Case 1
+
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x30C10")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_get_handler (__gp)
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x44F84")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_suppress_gate
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x41FD4")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_tamper_response
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x41BFC")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_stealth_mmap
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x30288")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_wrap_mmap
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x302FC")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_wrap_munmap
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x30300")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_wrap_mach_absolute_time
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x30334")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_wrap_write
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x303F0")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_wrap_objc_msgSend
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x305A8")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_handler_caseN_base
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x305C4")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_handler_case0
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x306D0")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_handler_case1
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x307E0")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_handler_case2
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x4188")),  ENCRYPTHEX("000080D2C0035FD6"), true); // anort_pack_pk_blob
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x59F0")),  ENCRYPTHEX("000080D2C0035FD6"), true); // anort_feature_flag_lookup
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x734C")),  ENCRYPTHEX("000080D2C0035FD6"), true); // anort_syscall_kill
+    Active.Address(Patch_Anort, Titanium(ENCRYPTOFFSET("0x29804")), ENCRYPTHEX("000080D2C0035FD6"), true); // anort_get_AnoSDKOnPause
 ]
