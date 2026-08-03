@@ -26,6 +26,7 @@
   {"name":"[ Eland'orr ] Tuxedo Mask","value":19906,"PersonalButtonID":3},
   {"name":"[ Elandor ] Chuyến Tàu Mơ Ước","value":19908,"PersonalButtonID":53},
   {"name":"[ Enzo ] Kurapika","value":19508,"PersonalButtonID":9},
+  {"name":"[ Gildur ] Jiji","value":10812,"PersonalButtonID":81},
   {"name":"[ Florentino ] Kỷ Nguyên Hổ Phách","value":52113,"PersonalButtonID":37},
   {"name":"[ Hayate ] Siêu Đạo Chích Kid","value":13213,"PersonalButtonID":46},
   {"name":"[ Hayate ] Thứ Nguyên Vệ Thần","value":13215,"PersonalButtonID":76},
@@ -61,7 +62,7 @@
   {"name":"[ Valhein ] Mã Hành Vạn Lý","value":13316,"PersonalButtonID":68},
   {"name":"[ Valhein ] Thứ Nguyên Vệ Thần","value":13314,"PersonalButtonID":25},
   {"name":"[ Veera ] My Melody's Love","value":10916,"PersonalButtonID":61},
-  {"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":83},
+  {"name":"[ Veera ] Momo","value":10917,"PersonalButtonID":82},
   {"name":"[ Veera ] Thiết Sát Thượng Sinh","value":10915,"PersonalButtonID":30},
   {"name":"[ Veres ] Lưu Ly Long Mẫu","value":52011,"PersonalButtonID":14},
   {"name":"[ Violet ] Nobara Kugisaki","value":11120,"PersonalButtonID":34},
@@ -74,16 +75,6 @@
   {"name":"[ Yue ] Hỗ Độn Thần Ma","value":54507,"PersonalButtonID":48},
   {"name":"[ Zephys ] Kỷ Nguyên Hổ Phách","value":10714,"PersonalButtonID":36},
   {"name":"[ Paine ] Cửu Sơn Thần Liễu","value":13707,"PersonalButtonID":74},
-  {"name":"[ Natalya ] Thánh Ca Huyết Tế","value":14215,"PersonalButtonID":77},
-  {"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":18},
-{"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":41},
-{"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":51},
-{"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":57},
-{"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":66},
-  {"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":78},
-{"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":79},
-{"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":80},
-{"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":81},
-{"name":"[ Veera ] Momo1","value":10917,"PersonalButtonID":82}
+  {"name":"[ Natalya ] Thánh Ca Huyết Tế","value":14215,"PersonalButtonID":77}
 ]
 
